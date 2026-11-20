@@ -4,6 +4,8 @@ A two-wheel robot built for a STEM competition. It pushes forward past a target 
 
 The firmware drives both wheels with a closed-loop PID controller. Two MT6701 magnetic encoders measure wheel travel, so the robot stops at the commanded distance even when the wheels or battery voltage change.
 
+**CAD:** [View the robot design in Onshape](https://cad.onshape.com/documents/299f5818a612338b9a07fa4c/w/ddd003f91212fb30e6fe7471/e/41376dde1b726e0963889ca8?renderMode=0&uiState=6affbaaf4404645c096092cf)
+
 ## 1. Run sequence
 
 The firmware (`firmware/PID_Drive/PID_Drive.ino`) performs one run per start:
