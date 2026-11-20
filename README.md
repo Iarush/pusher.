@@ -6,6 +6,11 @@ The firmware drives both wheels with a closed-loop PID controller. Two MT6701 ma
 
 **CAD:** [View the robot design in Onshape](https://cad.onshape.com/documents/299f5818a612338b9a07fa4c/w/ddd003f91212fb30e6fe7471/e/41376dde1b726e0963889ca8?renderMode=0&uiState=6affbaaf4404645c096092cf)
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ac84c4da-0355-4581-b962-3195c231e845" />
+
+<img width="615" height="526" alt="image" src="https://github.com/user-attachments/assets/060ab196-0544-45d1-abef-e5a27c505b5c" />
+
+
 ## 1. Run sequence
 
 The firmware (`firmware/PID_Drive/PID_Drive.ino`) performs one run per start:
